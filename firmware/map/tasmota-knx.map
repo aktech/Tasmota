@@ -19497,7 +19497,6 @@ LOAD .pio/build/tasmota-knx/lib9e9/libESP8266WiFi.a
 LOAD .pio/build/tasmota-knx/lib300/libArduinoNTPd.a
 LOAD .pio/build/tasmota-knx/libae3/libOpenTherm-0.9.0.a
 LOAD .pio/build/tasmota-knx/libe75/libProcessControl.a
-LOAD .pio/build/tasmota-knx/lib5f6/libUdpListener.a
 LOAD .pio/build/tasmota-knx/lib989/libUnishox-1.0-shadinger
 LOAD .pio/build/tasmota-knx/lib9ad/libC2Programmer-1.0.0.a
 LOAD .pio/build/tasmota-knx/lib16a/libSPI.a
@@ -19517,7 +19516,6 @@ LOAD .pio/build/tasmota-knx/libdb9/libSD.a
 LOAD .pio/build/tasmota-knx/lib408/lib_mail.a
 LOAD .pio/build/tasmota-knx/lib4f5/libIRremoteESP8266.a
 LOAD .pio/build/tasmota-knx/lib409/libjsmn-shadinger-1.0.a
-LOAD .pio/build/tasmota-knx/lib636/libLinkedList-1.2.3.a
 LOAD .pio/build/tasmota-knx/lib1ca/librfid-1.4.7.a
 LOAD .pio/build/tasmota-knx/lib79a/libNeoPixelBus.a
 LOAD .pio/build/tasmota-knx/libb81/libNewPing-1.9.1.a
@@ -19526,7 +19524,6 @@ LOAD .pio/build/tasmota-knx/lib7ef/libpubsubclient-2.8.12.a
 LOAD .pio/build/tasmota-knx/lib294/libExt-printf.a
 LOAD .pio/build/tasmota-knx/lib847/libTasmotaModbus-1.2.0.a
 LOAD .pio/build/tasmota-knx/lib641/libTicker.a
-LOAD .pio/build/tasmota-knx/lib20d/libbase64-1.1.1.a
 LOAD .pio/build/tasmota-knx/lib791/libEEPROM.a
 LOAD .pio/build/tasmota-knx/lib243/libesp-knx-ip-0.5.2.a
 LOAD .pio/build/tasmota-knx/lib053/libstm32flash-1.0-tasmota

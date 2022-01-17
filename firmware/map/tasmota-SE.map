@@ -17815,7 +17815,6 @@ LOAD .pio/build/tasmota-SE/lib300/libArduinoNTPd.a
 LOAD .pio/build/tasmota-SE/libae3/libOpenTherm-0.9.0.a
 LOAD .pio/build/tasmota-SE/libe75/libProcessControl.a
 LOAD .pio/build/tasmota-SE/lib458/libarduino-tm1637.a
-LOAD .pio/build/tasmota-SE/lib5f6/libUdpListener.a
 LOAD .pio/build/tasmota-SE/lib989/libUnishox-1.0-shadinger
 LOAD .pio/build/tasmota-SE/lib42c/libvl53l0x-arduino-1.02.a
 LOAD .pio/build/tasmota-SE/libf70/libvl53l1x-arduino-1.01.a
@@ -17848,7 +17847,6 @@ LOAD .pio/build/tasmota-SE/lib409/libjsmn-shadinger-1.0.a
 LOAD .pio/build/tasmota-SE/lib058/libKeeloqLib.a
 LOAD .pio/build/tasmota-SE/lib215/libLOLIN_HP303B.a
 LOAD .pio/build/tasmota-SE/libc19/libLedControl.a
-LOAD .pio/build/tasmota-SE/lib636/libLinkedList-1.2.3.a
 LOAD .pio/build/tasmota-SE/lib37b/libLiquidCrystal_I2C-1.1.3.a
 LOAD .pio/build/tasmota-SE/lib1ca/librfid-1.4.7.a
 LOAD .pio/build/tasmota-SE/lib4b3/libmlx90640-library.a
@@ -17867,7 +17865,6 @@ LOAD .pio/build/tasmota-SE/lib847/libTasmotaModbus-1.2.0.a
 LOAD .pio/build/tasmota-SE/lib641/libTicker.a
 LOAD .pio/build/tasmota-SE/lib4dc/libJoba_Tsl2561-2.0.10.a
 LOAD .pio/build/tasmota-SE/libeb3/libXPT2046_Touchscreen.a
-LOAD .pio/build/tasmota-SE/lib20d/libbase64-1.1.1.a
 LOAD .pio/build/tasmota-SE/lib296/libBME680_driver-bme680_v3.5.9.a
 LOAD .pio/build/tasmota-SE/libaff/libEpaper_29-gemu-1.0.a
 LOAD .pio/build/tasmota-SE/libf17/libEpaper_42-gemu-1.0.a

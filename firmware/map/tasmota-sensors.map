@@ -19379,7 +19379,6 @@ LOAD .pio/build/tasmota-sensors/lib9e9/libESP8266WiFi.a
 LOAD .pio/build/tasmota-sensors/lib300/libArduinoNTPd.a
 LOAD .pio/build/tasmota-sensors/libae3/libOpenTherm-0.9.0.a
 LOAD .pio/build/tasmota-sensors/libe75/libProcessControl.a
-LOAD .pio/build/tasmota-sensors/lib5f6/libUdpListener.a
 LOAD .pio/build/tasmota-sensors/lib989/libUnishox-1.0-shadinger
 LOAD .pio/build/tasmota-sensors/lib42c/libvl53l0x-arduino-1.02.a
 LOAD .pio/build/tasmota-sensors/libf70/libvl53l1x-arduino-1.01.a
@@ -19405,7 +19404,6 @@ LOAD .pio/build/tasmota-sensors/lib4f5/libIRremoteESP8266.a
 LOAD .pio/build/tasmota-sensors/lib409/libjsmn-shadinger-1.0.a
 LOAD .pio/build/tasmota-sensors/lib058/libKeeloqLib.a
 LOAD .pio/build/tasmota-sensors/lib215/libLOLIN_HP303B.a
-LOAD .pio/build/tasmota-sensors/lib636/libLinkedList-1.2.3.a
 LOAD .pio/build/tasmota-sensors/lib1ca/librfid-1.4.7.a
 LOAD .pio/build/tasmota-sensors/lib4b3/libmlx90640-library.a
 LOAD .pio/build/tasmota-sensors/libf1c/libMPU_accel.a
@@ -19419,7 +19417,6 @@ LOAD .pio/build/tasmota-sensors/lib294/libExt-printf.a
 LOAD .pio/build/tasmota-sensors/lib847/libTasmotaModbus-1.2.0.a
 LOAD .pio/build/tasmota-sensors/lib641/libTicker.a
 LOAD .pio/build/tasmota-sensors/lib4dc/libJoba_Tsl2561-2.0.10.a
-LOAD .pio/build/tasmota-sensors/lib20d/libbase64-1.1.1.a
 LOAD .pio/build/tasmota-sensors/lib296/libBME680_driver-bme680_v3.5.9.a
 LOAD .pio/build/tasmota-sensors/lib791/libEEPROM.a
 LOAD .pio/build/tasmota-sensors/lib243/libesp-knx-ip-0.5.2.a

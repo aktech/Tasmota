@@ -15377,7 +15377,6 @@ LOAD .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
 START GROUP
 LOAD .pio/build/tasmota-minimal/lib666/libWire.a
 LOAD .pio/build/tasmota-minimal/liba1d/libAT24C256_512.a
-LOAD .pio/build/tasmota-minimal/lib5f6/libUdpListener.a
 LOAD .pio/build/tasmota-minimal/lib989/libUnishox-1.0-shadinger
 LOAD .pio/build/tasmota-minimal/lib9e9/libESP8266WiFi.a
 LOAD .pio/build/tasmota-minimal/lib811/libDNSServer.a
@@ -15395,9 +15394,7 @@ LOAD .pio/build/tasmota-minimal/lib5b3/libSDFS.a
 LOAD .pio/build/tasmota-minimal/libdb9/libSD.a
 LOAD .pio/build/tasmota-minimal/lib13e/libTasmotaSerial-3.3.0.a
 LOAD .pio/build/tasmota-minimal/lib641/libTicker.a
-LOAD .pio/build/tasmota-minimal/lib20d/libbase64-1.1.1.a
 LOAD .pio/build/tasmota-minimal/lib791/libEEPROM.a
-LOAD .pio/build/tasmota-minimal/lib6b6/libheaders.a
 LOAD .pio/build/tasmota-minimal/libFrameworkArduinoVariant.a
 LOAD .pio/build/tasmota-minimal/libFrameworkArduino.a
 LOAD /home/runner/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lib/libhal.a

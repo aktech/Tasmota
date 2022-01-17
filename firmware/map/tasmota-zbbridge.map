@@ -16526,7 +16526,6 @@ LOAD .pio/build/tasmota-zbbridge/lib340/libbearssl-esp8266.a
 LOAD .pio/build/tasmota-zbbridge/lib264/libtls_mini.a
 LOAD .pio/build/tasmota-zbbridge/lib666/libWire.a
 LOAD .pio/build/tasmota-zbbridge/liba1d/libAT24C256_512.a
-LOAD .pio/build/tasmota-zbbridge/lib5f6/libUdpListener.a
 LOAD .pio/build/tasmota-zbbridge/lib989/libUnishox-1.0-shadinger
 LOAD .pio/build/tasmota-zbbridge/lib811/libDNSServer.a
 LOAD .pio/build/tasmota-zbbridge/lib8c4/libESP8266HTTPClient.a
@@ -16535,7 +16534,6 @@ LOAD .pio/build/tasmota-zbbridge/lib5f4/libESP8266httpUpdate.a
 LOAD .pio/build/tasmota-zbbridge/lib6eb/libESP8266mDNS.a
 LOAD .pio/build/tasmota-zbbridge/lib4f5/libIRremoteESP8266.a
 LOAD .pio/build/tasmota-zbbridge/lib409/libjsmn-shadinger-1.0.a
-LOAD .pio/build/tasmota-zbbridge/lib636/libLinkedList-1.2.3.a
 LOAD .pio/build/tasmota-zbbridge/libbc1/libLittleFS.a
 LOAD .pio/build/tasmota-zbbridge/lib16a/libSPI.a
 LOAD .pio/build/tasmota-zbbridge/lib79a/libNeoPixelBus.a
@@ -16548,9 +16546,7 @@ LOAD .pio/build/tasmota-zbbridge/libdb9/libSD.a
 LOAD .pio/build/tasmota-zbbridge/lib13e/libTasmotaSerial-3.3.0.a
 LOAD .pio/build/tasmota-zbbridge/lib847/libTasmotaModbus-1.2.0.a
 LOAD .pio/build/tasmota-zbbridge/lib641/libTicker.a
-LOAD .pio/build/tasmota-zbbridge/lib20d/libbase64-1.1.1.a
 LOAD .pio/build/tasmota-zbbridge/lib791/libEEPROM.a
-LOAD .pio/build/tasmota-zbbridge/lib6b6/libheaders.a
 LOAD .pio/build/tasmota-zbbridge/libFrameworkArduinoVariant.a
 LOAD .pio/build/tasmota-zbbridge/libFrameworkArduino.a
 LOAD /home/runner/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lib/libhal.a
