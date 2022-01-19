@@ -1,6 +1,6 @@
 # Self-Hosted Github Action Runners on Openstack via Cirun.io
-# Reference: https://docs.cirun.io/reference/yaml.html 
-runners:
+# Reference: https://docs.cirun.io/reference/yaml.html  
+runners: 
   - name: openstack-runner
     # Cloud Provider: Openstack
     cloud: openstack
